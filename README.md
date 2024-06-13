@@ -1,4 +1,5 @@
-- 👋 
+## Hola, soy Flor👋 
+Analista de datos!!
 - 👀 
 - 🌱
 - 💞️ 
