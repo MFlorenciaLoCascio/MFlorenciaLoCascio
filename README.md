@@ -1,8 +1,6 @@
-# HOLA!! 👋 
-## Soy Flor! 
-### LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO 👩‍💻📊
-
-
+# HOLA!! 👋 Soy Flor! 
+### LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO! 👩‍💻📊
+----
 ### *TE CUENTO UN POCO SOBRE MI:*
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
@@ -30,9 +28,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 <img width="12" />
-<img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib Logo" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib Logo" width="40">
 <img width="12" />
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="40">
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn Logo" width="40">
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
@@ -67,14 +65,13 @@
 
 ----
 
-####⏩¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
+#### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
-**Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")**
+**Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
 ----
 
 <h3 align="left">🌐 Te invito a que conectes conmigo:</h3>
-<h3 align="left"> Te invito a que conectes conmigo:</h3>
 
 |  |  |  |
 |---|---|---|
