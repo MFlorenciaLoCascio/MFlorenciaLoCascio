@@ -1,11 +1,10 @@
-# HOLA!! 👋 Soy Flor! 
-### ¡LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO! 👩‍💻📊
+# Hola!! 👋 Soy Flor! Analista de datos 👩‍💻📊
 
 ### *TE CUENTO UN POCO SOBRE MI:*
 
-⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
+📝  Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
-💯 Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+⚡ Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
 ✨ Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
 
