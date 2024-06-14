@@ -3,7 +3,7 @@
 ### LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO 👩‍💻📊
 
 
-#### 👩 TE CUENTO UN POCO SOBRE MI:
+### *TE CUENTO UN POCO SOBRE MI:*
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
@@ -12,6 +12,8 @@
 💯 Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
 **🚀 En busca de nuevos desafíos!!**  
+
+----
 
 #### 💻 MI STACK TECNOLÓGICO:  
 
@@ -43,6 +45,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="28">
 </div>
 
+----
+
 #### ⚙️ HERRAMIENTAS:
 
 <div align="left">
@@ -61,16 +65,18 @@
 <img src="https://cdn.worldvectorlogo.com/logos/meet-logo.svg" height="22" alt="meet logo"  />
 </div>
 
+----
+
 ####⏩¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")**
 
+----
 
 <h3 align="left">🌐 Te invito a que conectes conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" height="30" width="40" /></a>
-</p> <a <a href="mailto:florlocascio5@gmail.com" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a>
-<a href="https://wa.me/+5492613672872" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
-</a>
+<h3 align="left"> Te invito a que conectes conmigo:</h3>
+
+|  |  |  |
+|---|---|---|
+| <a href="https://linkedin.com/in/https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | <a href="https://wa.me/+5492613672872" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
+</a> |
