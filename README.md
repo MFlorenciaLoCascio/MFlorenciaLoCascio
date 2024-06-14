@@ -75,5 +75,5 @@
 
 |  |  |  |
 |---|---|---|
-| <a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | <a href="https://wa.me/+5492613672872" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
+| <a href="https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | <a href="https://wa.me/+5492613672872" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
 </a> |
