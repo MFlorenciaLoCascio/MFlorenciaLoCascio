@@ -1,6 +1,6 @@
 # HOLA!! 👋 Soy Flor! 
-### LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO! 👩‍💻📊
-----
+### ¡LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO! 👩‍💻📊
+
 ### *TE CUENTO UN POCO SOBRE MI:*
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
@@ -13,7 +13,7 @@
 
 ----
 
-#### 💻 MI STACK TECNOLÓGICO:  
+### 💻 MI STACK TECNOLÓGICO:  
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -34,18 +34,18 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="38">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="35">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="40">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="28">
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
 </div>
 
 ----
 
-#### ⚙️ HERRAMIENTAS:
+### ⚙️ HERRAMIENTAS:
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -56,24 +56,24 @@
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="22" alt="discord logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" height="40" alt="discord logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/zoom-communications-logo-1.svg" height="16" alt="zoom logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/zoom-app.svg" height="40" alt="zoom logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/meet-logo.svg" height="22" alt="meet logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="31" alt="meet logo"  />
 </div>
 
 ----
 
-#### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
+### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
 ----
 
-<h3 align="left">🌐 Te invito a que conectes conmigo:</h3>
+<h3 align="left">🌐 TE INVITO A QUE CONECTES CONMIGO!</h3>
 
 |  |  |  |
 |---|---|---|
-| <a href="https://linkedin.com/in/https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | <a href="https://wa.me/+5492613672872" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
+| <a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | <a href="https://wa.me/+5492613672872" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
 </a> |
