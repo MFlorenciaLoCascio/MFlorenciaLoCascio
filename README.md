@@ -1,8 +1,8 @@
 #HOLA!! 👋 
-##Soy Flor! 
-####LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO 👩‍💻📊
+## Soy Flor! 
+#### LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO 👩‍💻📊
 
-####**TE CUENTO UN POCO SOBRE MI: **
+#### TE CUENTO UN POCO SOBRE MI:
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
@@ -12,7 +12,7 @@
 
 **🚀 En busca de nuevos desafíos!!**  
 
-####**MI STACK TECNOLÓGICO:**  
+#### MI STACK TECNOLÓGICO:  
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -62,7 +62,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/meet-logo.svg" height="22" alt="meet logo"  />
 </div>
 
-####**¿QUERES VER ALGUNOS DE MIS PROYECTOS?: **
+#### ¿QUERES VER ALGUNOS DE MIS PROYECTOS?:
+
 Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")
 
 
