@@ -60,7 +60,7 @@
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/zoom-app.svg" height="40" alt="zoom logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="31" alt="meet logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
 </div>
 
 ----
