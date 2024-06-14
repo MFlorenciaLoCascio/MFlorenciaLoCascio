@@ -1,16 +1,18 @@
-# HOLA, SOY FLOR!! 👋  
+#HOLA!! 👋 
+##Soy Flor! 
+####LA ANALISTA DE DATOS QUE ESTABAS BUSCANDO 👩‍💻📊
 
-##ANALISTA DE DATOS  👩‍💻📊
+####**TE CUENTO UN POCO SOBRE MI: **
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
-✨ Curiosidad y motivación por aprender nuevas habilidades y herramientas  
+✨ Curiosidad y motivación por aprender nuevas habilidades y herramientas.
 
-💯 Background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+💯 Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
 **🚀 En busca de nuevos desafíos!!**  
 
-### Stack Tecnologíco:  
+####**MI STACK TECNOLÓGICO:**  
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -35,37 +37,40 @@
 <img width="40" />
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="33">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="28">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="33">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="28">
+<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="33">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="28">
-<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="sheets logo" width="80">
 </div>
 
-### Herramientas:
+#### HERRAMIENTAS:
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+      <img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-<img width="40" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-<img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
-<img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="22" alt="discord logo"  />
-<img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="22" alt="discord logo"  />
+
 <img src="https://cdn.worldvectorlogo.com/logos/zoom-communications-logo-1.svg" height="16" alt="zoom logo"  />
-<img width="12" />
+
 <img src="https://cdn.worldvectorlogo.com/logos/meet-logo.svg" height="22" alt="meet logo"  />
 </div>
 
+####**¿QUERES VER ALGUNOS DE MIS PROYECTOS?: **
+Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")
 
-<h3 align="left">Conecta conmigo:</h3>
+
+<h3 align="left">Te invito a que conectes conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mar%c3%ada-florencia-l-58a023126/" height="30" width="40" /></a>
-</p>
-
+</p> <a <a href="mailto:florlocascio5@gmail.com" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a>
+<a href="https://wa.me/+5492613672872" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="WhatsApp" height="40" width="40">
+</a>
