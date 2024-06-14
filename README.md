@@ -5,11 +5,11 @@
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
-✨ Curiosidad y motivación por aprender nuevas habilidades y herramientas.
-
 💯 Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
-**🚀 En busca de nuevos desafíos!!**  
+✨ Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
+
+**🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
 
 ----
 
