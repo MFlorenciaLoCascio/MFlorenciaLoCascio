@@ -1,6 +1,6 @@
 # HOLA, SOY FLOR!! 👋  
 
-###ANALISTA DE DATOS  👩‍💻
+##ANALISTA DE DATOS  👩‍💻📊
 
 ⚡ Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
@@ -10,7 +10,7 @@
 
 **🚀 En busca de nuevos desafíos!!**  
 
-#### Stack Tecnologíco:  
+### Stack Tecnologíco:  
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -35,32 +35,31 @@
 <img width="40" />
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="33">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013-logo.svg" alt="word logo" width="28">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="powerpoint logo" width="28">
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="33">
-<img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-docs-icon-2.svg" alt="docs logo" width="33">
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="28">
 <img width="12" />
 </div>
 
-#### Herramientas:
+### Herramientas:
 
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 <img width="40" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
-
+<img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="22" alt="discord logo"  />
-
+<img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/zoom-communications-logo-1.svg" height="16" alt="zoom logo"  />
-
+<img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/meet-logo.svg" height="22" alt="meet logo"  />
 </div>
 
