@@ -8,7 +8,7 @@
 
 **🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
 
-
+___
 ### 💻 STACK TECNOLÓGICO:  
 
 <div align="left">
@@ -39,7 +39,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
 </div>
 
-
+___
 ### ⚙️ HERRAMIENTAS:
 
 <div align="left">
@@ -58,12 +58,12 @@
 <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
 </div>
 
-
+___
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
-
+___
 <h3 align="left">🌐 TE INVITO A QUE CONECTES CONMIGO!</h3>
 
 |  |  |  |
