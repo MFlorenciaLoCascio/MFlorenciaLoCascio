@@ -9,6 +9,7 @@
 **🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
 
 ___
+
 ### 💻 STACK TECNOLÓGICO:  
 
 <div align="left">
@@ -40,6 +41,7 @@ ___
 </div>
 
 ___
+
 ### ⚙️ HERRAMIENTAS:
 
 <div align="left">
@@ -59,6 +61,7 @@ ___
 </div>
 
 ___
+
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
