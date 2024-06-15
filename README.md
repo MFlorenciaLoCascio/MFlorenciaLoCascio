@@ -7,9 +7,9 @@
 ✨Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
 
 **🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
-
-### 💻 MI STACK TECNOLÓGICO:  
 ***
+### 💻 MI STACK TECNOLÓGICO:  
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img width="12" />
@@ -37,9 +37,9 @@
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
 </div>
-
-### ⚙️ HERRAMIENTAS:
 ***
+### ⚙️ HERRAMIENTAS:
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 <img width="12" />
@@ -55,11 +55,11 @@
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
 </div>
-
-### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 ***
-**Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
+### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
+**Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
+***
 <h3 align="left">🌐 TE INVITO A QUE CONECTES CONMIGO!</h3>
 
 |  |  |  |
