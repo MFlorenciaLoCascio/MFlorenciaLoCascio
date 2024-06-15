@@ -1,15 +1,15 @@
 ![banner](https://github.com/MFlorenciaLoCascio/imagenes/blob/main/portada_github.png)
 
-#### 📝  Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
+📝 Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
-####⚡ Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+⚡Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
-#### ✨ Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
+✨Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
 
-#### **🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
+**🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
 
 ### 💻 MI STACK TECNOLÓGICO:  
-___
+***
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img width="12" />
@@ -39,7 +39,7 @@ ___
 </div>
 
 ### ⚙️ HERRAMIENTAS:
-___
+***
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 <img width="12" />
@@ -57,10 +57,8 @@ ___
 </div>
 
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
-___
-<center>
+***
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
-<center>
 
 <h3 align="left">🌐 TE INVITO A QUE CONECTES CONMIGO!</h3>
 
