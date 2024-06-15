@@ -1,8 +1,5 @@
 ![banner](https://github.com/MFlorenciaLoCascio/imagenes/blob/main/portada_github.png)
 
-
-# Hola!! 👋 Soy Flor! Analista de datos 👩‍💻📊
-
 ### *TE CUENTO UN POCO SOBRE MI:*
 
 📝  Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
