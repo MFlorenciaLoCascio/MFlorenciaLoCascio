@@ -31,9 +31,9 @@ ___
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="40" alt="github logo" width="40 />
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" height="40" alt="github logo" width="40 >
 <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" alt="git logo"  width="40 />
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="40" alt="git logo"  width="40 >
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="38">
 <img width="12" />
