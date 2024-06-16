@@ -68,16 +68,8 @@ ___
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
-___
-<h3 align="left">🌐 TE INVITO A QUE TE CONTACTES CONMIGO!</h3>
-
-<a href="https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
-<a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | 
-
-
-
 <p align="center">
-   <i>Puedes contactarme:.</i>
+   <h4>PUEDES CONTACTARME:.</h4>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
