@@ -1,4 +1,4 @@
-![banner](https://github.com/MFlorenciaLoCascio/imagenes/blob/main/portada_github.png)
+![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
 
 📝 Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 
