@@ -48,7 +48,7 @@ ___
 
 ___
 
-### ⚙️ HERRAMIENTAS:
+### 🛠️ HERRAMIENTAS:
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -72,8 +72,7 @@ ___
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
-### Puedes conectarme: 
-<br>	
+### 📫 Puedes conectarme: <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank"
 href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
