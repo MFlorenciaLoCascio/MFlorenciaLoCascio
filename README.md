@@ -10,6 +10,7 @@
 
 **🚀 Estoy lista para iniciar nuevos desafíos!!**  
 
+
 ___
 
 ### 💻 STACK TECNOLÓGICO:  
@@ -46,6 +47,7 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" alt="sheets logo" width="29">
 </div>
 
+
 ___
 
 ### 🛠️ HERRAMIENTAS:
@@ -66,13 +68,17 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg" height="33" alt="meet logo"  />
 </div>
 
+
 ___
 
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
-### 📫 Puedes conectarme: <br>	
+
+___
+
+### 📫 Puedes contactarte: <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank"
 href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
