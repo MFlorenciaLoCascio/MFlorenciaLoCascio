@@ -1,10 +1,14 @@
 ![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
 
 🎓 Soy Analista de Datos y Técnica en Higiene y Seguridad
+
 📝 Tengo experiencia en análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
+
 ⚡Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+
 ✨Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
-**🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
+
+**🚀 Estoy lista para iniciar nuevos desafíos!!**  
 
 ___
 
@@ -69,7 +73,7 @@ ___
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
 <p align="center">
-   <h4>PUEDES CONTACTARME:.</h4>
+   <h>PUEDES CONTACTARME:.</h>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
