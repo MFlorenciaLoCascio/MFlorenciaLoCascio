@@ -1,11 +1,9 @@
 ![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
 
-📝 Tengo experiencia en proyectos académicos de análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
-
+🎓 Soy Analista de Datos y Técnica en Higiene y Seguridad
+📝 Tengo experiencia en análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
 ⚡Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
-
 ✨Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
-
 **🚀 Estoy en busca de nuevas oportunidades y desafíos!!**  
 
 ___
@@ -71,8 +69,24 @@ ___
 **Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
 
 ___
-<h3 align="left">🌐 TE INVITO A QUE CONECTES CONMIGO!</h3>
+<h3 align="left">🌐 TE INVITO A QUE TE CONTACTES CONMIGO!</h3>
 
-|  |  |  |
-|---|---|---|
-| <a href="https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | 
+<a href="https://www.linkedin.com/in/maria-florencia-lo-cascio/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+<a href="mailto:florlocascio5@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/gmail.svg" alt="Gmail" height="40" width="50" /></a> | 
+
+
+
+<p align="center">
+   <i>Puedes contactarme:.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank"
+
+href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" 
+<br>
+</p>
+
+
+
