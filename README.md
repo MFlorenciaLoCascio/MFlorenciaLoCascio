@@ -73,7 +73,7 @@ ___
 
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
-**Puedes visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS"), o mi [LinkedIn](https://www.linkedin.com/in/maria-florencia-lo-cascio/ "LINKEDIN")** !!
+#### Vistita mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS")!!
 
 
 ___
