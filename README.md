@@ -1,8 +1,11 @@
-![image](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/a558e49f-5eac-44fb-bde3-829781db8404)![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
+![image](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/a558e49f-5eac-44fb-bde3-829781db8404)![portada_github]
 
 🎓 Analista de Datos y Técnica en Higiene y Seguridad, background en Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+
 📝Experiencia en Análisis y Visualización de Datos, aplicando metodologías ágiles con scrum. 
+
 ⚡Utilizo herramientas como SQL Server, Power BI, Python y Excel para transformar datos en insights accionables, apoyando la toma de decisiones estratégicas.  
+
 ✨ Actualmente, estoy aprendiendo a crear pipelines de datos y automatizar procesos con GCP, utilizando herramientas como BigQuery. Esto me permite ampliar mis habilidades y ofrecer soluciones más completas.
 
 **🚀 Lista para nuevos desafíos y entusiasmada por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**  
