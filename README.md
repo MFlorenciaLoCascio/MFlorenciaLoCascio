@@ -1,14 +1,11 @@
-![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
+![image](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/a558e49f-5eac-44fb-bde3-829781db8404)![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/d246cdd3-d7e8-4eb0-aa72-6eea0ccc4bb2)
 
-🎓 Soy Analista de Datos y Técnica en Higiene y Seguridad
+🎓 Analista de Datos y Técnica en Higiene y Seguridad, background en Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+📝Experiencia en Análisis y Visualización de Datos, aplicando metodologías ágiles con scrum. 
+⚡Utilizo herramientas como SQL Server, Power BI, Python y Excel para transformar datos en insights accionables, apoyando la toma de decisiones estratégicas.  
+✨ Actualmente, estoy aprendiendo a crear pipelines de datos y automatizar procesos con GCP, utilizando herramientas como BigQuery. Esto me permite ampliar mis habilidades y ofrecer soluciones más completas.
 
-📝 Tengo experiencia en análisis y visualización de datos, aplicando metodologías ágiles con scrum.  
-
-⚡Poseo background en Higiene y Seguridad, Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
-
-✨Tengo mucha curiosidad y motivación por aprender nuevas habilidades y herramientas.
-
-**🚀 Estoy lista para iniciar nuevos desafíos!!**  
+**🚀 Lista para nuevos desafíos y entusiasmada por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**  
 
 
 ___
@@ -31,6 +28,10 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib Logo" width="40">
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn Logo" width="40">
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="google cloud" width="40">
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="big query" width="40">
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
@@ -57,6 +58,8 @@ ___
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 <img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" height="40" alt="trello"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/drive-new-logo-1.svg" height="36" alt="drive logo"  />
@@ -78,7 +81,7 @@ ___
 
 ___
 
-### 📫 Puedes contactarte: <br>	
+### 📩 Puedes contactarme a través de LinkedIn o enviarme un correo, ¡Hablemos sobre cómo puedo agregar valor a tu equipo! <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank"
 href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
