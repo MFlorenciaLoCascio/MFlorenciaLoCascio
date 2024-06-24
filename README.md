@@ -80,7 +80,7 @@ ___
 
 ### ⏩ ¿QUIERES VER ALGUNOS DE MIS PROYECTOS?:
 
-#### Vistita mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS")!!
+#### Te invito a visitar mis [Repositorios en GitHub](https://github.com/MFlorenciaLoCascio?tab=repositories "REPOSITORIOS")!!
 
 
 ___
