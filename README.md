@@ -1,4 +1,5 @@
-![image](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/a558e49f-5eac-44fb-bde3-829781db8404)![portada_github]
+![portada_github](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/73f470a1-7ca2-41de-9280-e22b7993d908)
+
 
 🎓 Analista de Datos y Técnica en Higiene y Seguridad, background en Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
