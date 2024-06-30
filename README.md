@@ -3,14 +3,11 @@
 
 🎓 Analista de Datos y Técnica en Higiene y Seguridad, background en Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
 
-📝Experiencia en Análisis y Visualización de Datos, aplicando metodologías ágiles con scrum. 
+⚡ Experiencia en proyectos con diversas tecnologías para extraer, analizar, transformar, automatizar y visualizar datos en insights accionables, apoyando la toma de decisiones estratégicas, aplicando Metodologías Ágiles con Scrum. 
 
-⚡Utilizo herramientas como SQL Server, Power BI, Python y Excel para transformar datos en insights accionables, apoyando la toma de decisiones estratégicas.  
-
-✨ Actualmente, estoy aprendiendo a crear pipelines de datos y automatizar procesos con GCP, utilizando herramientas como BigQuery. Esto me permite ampliar mis habilidades y ofrecer soluciones más completas.
+✨ Habilidades analíticas, resolución de problemas, trabajo en equipo y comunicación efectiva, toma de decisiones basada en datos, orientación al cliente y resultados.
 
 **🚀 Lista para nuevos desafíos y entusiasmada por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**  
-
 
 ___
 
