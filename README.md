@@ -10,7 +10,6 @@
 
 **🚀 Lista para nuevos desafíos y entusiasmada por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**  
 
-📈 Te invito a visitar mi [Portfolio](https://sites.google.com/view/maria-florencia-lo-cascio) !!
 ___
 
 ### 💻 STACK TECNOLÓGICO:  
