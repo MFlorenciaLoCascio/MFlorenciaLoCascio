@@ -2,7 +2,7 @@
 
 
 
-🎓 Analista de Datos y Técnica en Higiene y Seguridad, background en Análisis Financiero, Riesgo Crediticio, Ventas y Atención al Cliente.
+🎓 Analista de Datos y Técnica en Higiene y Seguridad.
 
 ⚡ Experiencia en diversas tecnologías para extraer, analizar, transformar, automatizar y visualizar datos en insights accionables, apoyando la toma de decisiones estratégicas, aplicando Metodologías Ágiles con Scrum. 
 
