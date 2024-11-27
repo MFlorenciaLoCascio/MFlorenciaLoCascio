@@ -1,14 +1,13 @@
 ![github (2)](https://github.com/MFlorenciaLoCascio/MFlorenciaLoCascio/assets/139195222/0b832a4b-a660-404d-8d4e-38d582e8282f)
 
 
+👩‍💻 Data Analyst - Business Intelligence - Tec. en Higiene y Seguridad.
 
-🎓 Analista de Datos y Técnica en Higiene y Seguridad.
+⚡ Tengo experiencia en diversas tecnologías para extraer, analizar, transformar, automatizar y visualizar datos en insights accionables, apoyando la toma de decisiones estratégicas, aplicando Metodologías Ágiles con Scrum. 
 
-⚡ Experiencia en diversas tecnologías para extraer, analizar, transformar, automatizar y visualizar datos en insights accionables, apoyando la toma de decisiones estratégicas, aplicando Metodologías Ágiles con Scrum. 
+✨ Mis experiencias me han permitido desarrollar habilidades clave en análisis de datos, resolución de problemas, trabajo en equipo, comunicación efectiva, toma de decisiones basada en datos, y una fuerte orientación al cliente y resultados.
 
-✨ Habilidades analíticas, resolución de problemas, trabajo en equipo y comunicación efectiva, toma de decisiones basada en datos, orientación al cliente y resultados.
-
-**🚀 Lista para nuevos desafíos y entusiasmada por aportar mis habilidades. Abierta a oportunidades que me permitan seguir desarrollándome profesionalmente y colaborar en proyectos contribuyendo positivamente al equipo!!**  
+**🚀 Abierta a oportunidades que me permitan seguir creciendo profesionalmente!!**  
 
 ___
 
@@ -81,7 +80,7 @@ ___
 
 ___
 
-### 📩 Puedes contactarme a través de LinkedIn o enviarme un correo, ¡Hablemos sobre cómo puedo agregar valor a tu equipo! <br>	
+### 📩 Puedes contactarme a través de LinkedIn o enviarme un correo <br>	
 <a target="_blank" href="https://www.linkedin.com/in/maria-florencia-lo-cascio/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank"
 href="mailto:florlocascio5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
